@@ -1,0 +1,1 @@
+Here is python code to plot a channel map from a fits file (3D data cube) with aplpy library. If you using CASA software and have a filename.image file, fits file can be created with CARTA (save image -> fits format (do not forget to click on "Drop degenerative axes"))
