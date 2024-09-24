@@ -1,0 +1,9 @@
+# Casa failed to get source sizes or somethig.
+# Don't know why. To keep in mind. 
+
+CH3OH_247161_18433
+CH3OH_247228_18433
+CH3OH_248282_20481
+CH3OH_248885_20481
+CH3OH_249419_20481
+HCOOH_246105_18433
